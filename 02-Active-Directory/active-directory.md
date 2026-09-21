@@ -17,11 +17,11 @@ Groups
 
 ## Users
 
-Two test users were created inside the `Accounts` OU.
+Three test users were created inside the `Accounts` OU.
 
 ## Groups
 
-Two test groups were created inside the `Groups` OU.
+Four test groups were created inside the `Groups` OU.
 
 ## Windows 11 Domain Join
 
