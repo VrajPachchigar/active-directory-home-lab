@@ -124,15 +124,4 @@ This is a personal lab project created for hands-on learning and portfolio purpo
 
 ## Screenshots
 
-Screenshots can be added to the folders under `screenshots/` to provide visual evidence of the lab configuration.
-
-Suggested screenshots:
-
-- Windows Server `DC01`
-- Active Directory Users and Computers
-- `Accounts` and `Groups` OUs
-- Test users and groups
-- Windows 11 domain membership
-- Password reset / account unlock
-- HR group membership
-- Mapped HR folder
+Screenshots are added to the folders under `screenshots/` to provide visual evidence of the lab configuration.
